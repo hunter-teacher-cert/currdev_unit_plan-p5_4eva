@@ -2,7 +2,7 @@
 Team p5_4eva: Marisa Laks, Eric Wilson, Emma Wingreen, Ian Scheffler
 
 ## Essential Question:
-How can computers make art?
+How can computers make art? Emma's comment
 
 ## High Level Description of Unit Content:
 The nuts and bolts of computing--loops, variables, arrays--can be scary and
