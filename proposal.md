@@ -14,7 +14,7 @@ a program using loops--in the context of making art.
 
 By the end of the unit, students will be able to combine these disparate skills
 to demonstrate their understanding via a performance task: the creation of a work
-of art, broadly understood as a static image or a short animation.
+of art, broadly understood as a static image or a short animation. Examples of projects students could create are: https://splatter-paint-demo.marisalaks.repl.co/, https://finalproject.marisalaks.repl.co/.  
 
 To ensure alignment with the pedagogical goals of the unit, students will be
 provided with a checklist to ensure that their final product includes all necessary
