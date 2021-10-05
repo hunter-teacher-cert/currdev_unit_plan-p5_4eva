@@ -52,4 +52,14 @@ can be woven into this unit. (Since p5.js is a very flexible language, students 
 have a wide latitude in the kind of art they can create.)
 
 ## Placement of Unit:
-Placement of unit in existing class/sequence.
+This unit is designed to be a supplemental unit to a high school or middle school CS class, not necessarily of
+the AP variety. The idea is that most students will have familiarity with block-based programming,
+but not all students are necessarily comfortable with text-based programming.
+
+This unit expects that students will have encountered most of the programming concepts before--
+such as loops, variables, and conditionals--but not in the context of text-based programming. The unit
+is designed to come closer to the end of the year, once students have encountered the fundamental
+concepts named above at least once.
+
+In other words, this unit provides a chance to deepen understanding of some fundamental programming concepts,
+by revisiting them in a new way. (In an AP CSP course, this might take place after the AP Exam.)
