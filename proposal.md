@@ -10,11 +10,11 @@ downright confusing, especially if they're not placed in a meaningful context.
 
 The goal of this unit is to embed learning some basic programming skills--namely,
 storing data in variables, using conditional statements, and controlling the flow of
-a program using loops--in the context of making art.
+a program using loops--in the context of making art using p5.js.
 
 By the end of the unit, students will be able to combine these disparate skills
 to demonstrate their understanding via a performance task: the creation of a work
-of art, broadly understood as a static image or a short animation. Examples of projects students could create are: https://splatter-paint-demo.marisalaks.repl.co/, https://finalproject.marisalaks.repl.co/.  
+of art, broadly understood as a static image or a short animation. They will learn how to write code in p5.js. Examples of projects students could create are: https://splatter-paint-demo.marisalaks.repl.co/, https://finalproject.marisalaks.repl.co/.  
 
 To ensure alignment with the pedagogical goals of the unit, students will be
 provided with a checklist to ensure that their final product includes all necessary
