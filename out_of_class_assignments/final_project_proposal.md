@@ -8,5 +8,5 @@ Please review the task sheet to familiarize yourself with the guidelines.
 
 ## Requirements:
 + Sketch (either on paper or digitally) what your final project will look like.
-+ Write a paragraph describing what you want to create and why. Do your best to describe any 
-technical challenges you foresee encountering.
++ Write a paragraph describing what you want to create and why.
++ Do your best to describe any technical challenges you foresee encountering.
