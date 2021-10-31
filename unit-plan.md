@@ -88,65 +88,65 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Introduction to Computer Art (2 lessons)
 
-# Lesson 1:
+### Lesson 1:
 + Gallery walk Google slide deck (we each contribute 2 images of digital art?) Video games, animated movies, gallery installations, NFTs, Google Doodles, social media
 + Question formulation (Scheffler will provide graphic organizer Google doc)
 
-# Lesson 2:
+### Lesson 2:
 + Evolution of Computer Art (video? Slide show?) Gallery walk? Group activities? Maybe add to QFT list of questions?
 + Create account on p5.js (Duplicate starter code --> Everything is commented out; then they uncomment to see what it does? --> Save work (does not auto-save)
 
 ## Mondrian-Inspired Art (2 days)
 
-# Lesson 1:
+### Lesson 1:
 + Learn about artist, seeing teacher demo, doing code along, homework (out of class) assignment
 + Mastery Check (example): Google Form w/questions --> Functions and Parameters
 
-# Lesson 2:
+### Lesson 2:
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
 
 ## Picasso-Inspired Art (2 days):
 
-# Lesson 1:
+### Lesson 1:
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Variables and Loops
 
-# Lesson 2:
+### Lesson 2:
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
 
 ## Pollock-Inspired Art (2 days)
 
-# Lesson 1:
+### Lesson 1:
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Randomization and User Input  
 
-# Lesson 2:
+### Lesson 2:
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
 
 
 ## Final Project (3 days):
 
-# Lesson 1:
+### Lesson 1:
 + Brainstorming / Proposals
 + Proposal doc turn in + drawing
 
-# Lesson 2:
+### Lesson 2:
 + Worktime (set individual goals at start of class)
 
-# Lesson 3:
+### Lesson 3:
 + Peer Feedback / Gallery Walk
 
 ---
 
 ## Assessments
 
-# Formative:
+### Formative:
 + Mastery Check (x3) (MC/Short Response)
 + Independent Labs (x3)
 
-# Summative:
+### Summative:
 + Final Project:Create a work of art using p5.js; meet certain requirements (see task sheet)
 ---
