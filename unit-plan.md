@@ -144,12 +144,16 @@ Total length: ~2 Weeks (~11 lessons)
 
 ### Lesson 1:
 + *Standard(s)*:
+  + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+  + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using randomization and user input
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Randomization and User Input  
 
 ### Lesson 2:
 + *Standard(s)*:
+  + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+  + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using randomization and user input
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
