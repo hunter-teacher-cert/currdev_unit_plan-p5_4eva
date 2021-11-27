@@ -89,11 +89,15 @@ Total length: ~2 Weeks (~11 lessons)
 ## Introduction to Computer Art (2 lessons)
 
 ### Lesson 1:
++ *Standard(s)*: 
++ + **9-12.DL.2**: Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others. 
++ + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can create questions about digital art.
 + Gallery walk Google slide deck (we each contribute 2 images of digital art?) Video games, animated movies, gallery installations, NFTs, Google Doodles, social media
 + Question formulation (Scheffler will provide graphic organizer Google doc)
 
 ### Lesson 2:
++ *Standard(s)*:
 + *Aim*: I can log in to, save and submit work using p5.js
 + Evolution of Computer Art (video? Slide show?) Gallery walk? Group activities? Maybe add to QFT list of questions?
 + Create account on p5.js (Duplicate starter code --> Everything is commented out; then they uncomment to see what it does? --> Save work (does not auto-save)
@@ -101,11 +105,13 @@ Total length: ~2 Weeks (~11 lessons)
 ## Mondrian-Inspired Art (2 days)
 
 ### Lesson 1:
++ *Standard(s)*:
 + *Aim*: I can use p5.js to create art using functions and parameters
 + Learn about artist, seeing teacher demo, doing code along, homework (out of class) assignment
 + Mastery Check (example): Google Form w/questions --> Functions and Parameters
 
 ### Lesson 2:
++ *Standard(s)*:
 + *Aim*: I can use p5.js to create art using functions and parameters
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
@@ -113,11 +119,13 @@ Total length: ~2 Weeks (~11 lessons)
 ## Picasso-Inspired Art (2 days):
 
 ### Lesson 1:
++ *Standard(s)*:
 + *Aim*: I can use p5.js to create art using variables and loops
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Variables and Loops
 
 ### Lesson 2:
++ *Standard(s)*:
 + *Aim*: I can use p5.js to create art using variables and loops
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
@@ -125,11 +133,13 @@ Total length: ~2 Weeks (~11 lessons)
 ## Pollock-Inspired Art (2 days)
 
 ### Lesson 1:
++ *Standard(s)*:
 + *Aim*: I can use p5.js to create art using randomization and user input
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Randomization and User Input  
 
 ### Lesson 2:
++ *Standard(s)*:
 + *Aim*: I can use p5.js to create art using randomization and user input
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
@@ -138,15 +148,18 @@ Total length: ~2 Weeks (~11 lessons)
 ## Final Project (3 days):
 
 ### Lesson 1:
++ *Standard(s)*:
 + *Aim*: I can propose the design of my final project
 + Brainstorming / Proposals
 + Proposal doc turn in + drawing
 
 ### Lesson 2:
++ *Standard(s)*:
 + *Aim*: I can set and accomplish a goal related to my final project
 + Worktime (set individual goals at start of class)
 
 ### Lesson 3:
++ *Standard(s)*: 
 + *Aim*: I can give and receive feedback on my final project
 + Peer Feedback / Gallery Walk
 
