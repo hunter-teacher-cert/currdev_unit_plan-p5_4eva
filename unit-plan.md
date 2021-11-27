@@ -163,18 +163,21 @@ Total length: ~2 Weeks (~11 lessons)
 
 ### Lesson 1:
 + *Standard(s)*:
+  + **9-12.DL.4**: Independently select advanced digital tools and resources to create, revise, and publish complex digital artifacts or collection of artifacts.
 + *Aim*: I can propose the design of my final project
 + Brainstorming / Proposals
 + Proposal doc turn in + drawing
 
 ### Lesson 2:
 + *Standard(s)*:
+  + **9-12.CT.4**: Implement a program using a combination of student-defined and third-party functions to organize the computation.
 + *Aim*: I can set and accomplish a goal related to my final project
 + Worktime (set individual goals at start of class)
 
 ### Lesson 3:
 + *Standard(s)*: 
-+ *Aim*: I can give and receive feedback on my final project
+  + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
++ *Aim*: I can revise my final project based on user input
 + Peer Feedback / Gallery Walk
 
 ---
