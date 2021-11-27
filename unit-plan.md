@@ -108,12 +108,16 @@ Total length: ~2 Weeks (~11 lessons)
 
 ### Lesson 1:
 + *Standard(s)*:
+  + **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
+  + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using functions and parameters
 + Learn about artist, seeing teacher demo, doing code along, homework (out of class) assignment
 + Mastery Check (example): Google Form w/questions --> Functions and Parameters
 
 ### Lesson 2:
 + *Standard(s)*:
+  + **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
+  + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using functions and parameters
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
