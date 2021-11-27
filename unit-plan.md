@@ -98,6 +98,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ### Lesson 2:
 + *Standard(s)*:
+  + **9-12.DL.5**: Transfer knowledge of technology in order to use new and emerging technologies on multiple platforms.
 + *Aim*: I can log in to, save and submit work using p5.js
 + Evolution of Computer Art (video? Slide show?) Gallery walk? Group activities? Maybe add to QFT list of questions?
 + Create account on p5.js (Duplicate starter code --> Everything is commented out; then they uncomment to see what it does? --> Save work (does not auto-save)
