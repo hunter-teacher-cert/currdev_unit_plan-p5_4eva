@@ -126,12 +126,16 @@ Total length: ~2 Weeks (~11 lessons)
 
 ### Lesson 1:
 + *Standard(s)*:
+  + **7-8.CT.8**: Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem.
+  + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using variables and loops
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Variables and Loops
 
 ### Lesson 2:
 + *Standard(s)*:
+  + **7-8.CT.8**: Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem.
+  + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using variables and loops
 + Independent lab
 + Incl. graphic organizer (can be embedded in code?)
