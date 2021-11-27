@@ -90,8 +90,8 @@ Total length: ~2 Weeks (~11 lessons)
 
 ### Lesson 1:
 + *Standard(s)*: 
-+ + **9-12.DL.2**: Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others. 
-+ + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
+  + **9-12.DL.2**: Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others. 
+  + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can create questions about digital art.
 + Gallery walk Google slide deck (we each contribute 2 images of digital art?) Video games, animated movies, gallery installations, NFTs, Google Doodles, social media
 + Question formulation (Scheffler will provide graphic organizer Google doc)
