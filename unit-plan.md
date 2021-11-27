@@ -61,7 +61,16 @@ have a wide latitude in the kind of art they can create.)
 ---
 
 ## Standards Referenced
-(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set) *Note: standards will be added at a later date*
+We are using the NYS K-12 Computer Science and Digital Fluency Standards, in order to become more familiar with them, since these standards
+are in the process of being rolled out across the DOE. Standards assessed in this unit include:
++ **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
++ **7-8.CT.8**: Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem.
++ **9-12.DL.2**: Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others. 
++ **9-12.DL.4**: Independently select advanced digital tools and resources to create, revise, and publish complex digital artifacts or collection of artifacts.
++ **9-12.DL.5**: Transfer knowledge of technology in order to use new and emerging technologies on multiple platforms.
++ **9-12.IC.7**: Investigate the use of computer science in multiple fields.
++ **9-12.CT.4**: Implement a program using a combination of student-defined and third-party functions to organize the computation.
++ **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
 
 ---
 
