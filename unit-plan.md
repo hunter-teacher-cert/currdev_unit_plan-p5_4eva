@@ -69,6 +69,7 @@ are in the process of being rolled out across the DOE. Standards assessed in thi
 + **9-12.DL.4**: Independently select advanced digital tools and resources to create, revise, and publish complex digital artifacts or collection of artifacts.
 + **9-12.DL.5**: Transfer knowledge of technology in order to use new and emerging technologies on multiple platforms.
 + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
++ **7-8.CT.4**: Write a program using functions or procedures whose names or other documentation convey their purpose within the larger task.
 + **9-12.CT.4**: Implement a program using a combination of student-defined and third-party functions to organize the computation.
 + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
 
@@ -125,6 +126,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ### Lesson 2:
 + *Standard(s)*:
+  + **7-8.CT.4**: Write a program using functions or procedures whose names or other documentation convey their purpose within the larger task.
   + **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using functions and parameters
