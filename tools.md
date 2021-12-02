@@ -4,14 +4,14 @@ Include the names of the tools, what they do in general, how you will use them f
 
 **p5.js reference/documentation page:**
 
-Adobe Color Picker:
+**Adobe Color Picker:**
 
-Peblio (potentially, as a workflow tool for distributing starter code):
+**Peblio (potentially, as a workflow tool for distributing starter code):**
 
-Laptops for students:
+**Laptops for students:**
 
-SmartBoard:
+**SmartBoard:**
 
-Google Slides:
+**Google Slides:**
 
-Google Form for assessments:
+**Google Form for assessments:**
