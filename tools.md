@@ -13,3 +13,7 @@ Include the names of the tools, what they do in general, how you will use them f
 **Google Slides:** We plan to use Google Slides to explain the artwork and styles of each artist and to model starter code. Most lessons will feature direct instruction using Google Slides before launching students into their work in p5.js.
 
 **Google Form for assessments:** We plan to give students summative (and some formative) assessments using Google Forms. This is an easily accessible and gradeable tool that most students have used in the past. Because of how Google Forms autogrades, it is easy as the teacher to see common misconceptions and distractor answers.
+
+**Google** Students will search on the Internet for further information about the artists they study in class.
+
+
