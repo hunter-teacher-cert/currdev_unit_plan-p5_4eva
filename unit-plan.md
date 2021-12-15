@@ -116,7 +116,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Mondrian-Inspired Art (2 days)
 
-### Lesson 1:
+### Lesson 3:
 + *Standard(s)*:
   + **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -124,7 +124,7 @@ Total length: ~2 Weeks (~11 lessons)
 + Learn about artist, seeing teacher demo, doing code along, homework (out of class) assignment
 + Mastery Check (example): Google Form w/questions --> Functions and Parameters
 
-### Lesson 2:
+### Lesson 4:
 + *Standard(s)*:
   + **7-8.CT.4**: Write a program using functions or procedures whose names or other documentation convey their purpose within the larger task.
   + **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
@@ -135,7 +135,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Picasso-Inspired Art (2 days):
 
-### Lesson 1:
+### Lesson 5:
 + *Standard(s)*:
   + **7-8.CT.8**: Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -143,7 +143,7 @@ Total length: ~2 Weeks (~11 lessons)
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Variables and Loops
 
-### Lesson 2:
+### Lesson 6:
 + *Standard(s)*:
   + **7-8.CT.8**: Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -153,7 +153,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Pollock-Inspired Art (2 days)
 
-### Lesson 1:
+### Lesson 7:
 + *Standard(s)*:
   + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -161,7 +161,7 @@ Total length: ~2 Weeks (~11 lessons)
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Randomization and User Input  
 
-### Lesson 2:
+### Lesson 8:
 + *Standard(s)*:
   + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -172,20 +172,20 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Final Project (3 days):
 
-### Lesson 1:
+### Lesson 9:
 + *Standard(s)*:
   + **9-12.DL.4**: Independently select advanced digital tools and resources to create, revise, and publish complex digital artifacts or collection of artifacts.
 + *Aim*: I can propose the design of my final project
 + Brainstorming / Proposals
 + Proposal doc turn in + drawing
 
-### Lesson 2:
+### Lesson 10:
 + *Standard(s)*:
   + **9-12.CT.4**: Implement a program using a combination of student-defined and third-party functions to organize the computation.
 + *Aim*: I can set and accomplish a goal related to my final project
 + Worktime (set individual goals at start of class)
 
-### Lesson 3:
+### Lesson 11:
 + *Standard(s)*: 
   + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
 + *Aim*: I can revise my final project based on user input
