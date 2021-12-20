@@ -17,8 +17,8 @@ Aim: I can use p5.js to create art using functions and parameters
 - p5.js student accounts
 - Google Classroom or other class tool to share projects and links
 - Homework assignment
-- Mondrian p5.js lab template
-- Mondrian assessment
+- Mondrian p5.js lab template (https://editor.p5js.org/emmawingreen/sketches/NNizOxzZ0)
+- Mondrian assessment (https://docs.google.com/forms/d/e/1FAIpQLSe2fkMYNRDopvhDR-o7vtsvPsVsmHVe45TTRoFjHAXk5pMiKw/viewform)
 
 
 ### Do Now: (10 min)
@@ -52,7 +52,7 @@ Now you're going to add in several rectangles or squares. Start by making them b
 
 ### Assessment: (5 min)
 
-Mastery Check - Students will be assessed on their knowledge of the line() and rect() functions and variables (https://docs.google.com/forms/d/e/1FAIpQLSe2fkMYNRDopvhDR-o7vtsvPsVsmHVe45TTRoFjHAXk5pMiKw/viewform)
+Mastery Check - Students will be assessed on their knowledge of the line() and rect() functions and variables 
 
 
 ### Closing: (5 min)
