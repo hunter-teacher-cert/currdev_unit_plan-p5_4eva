@@ -15,7 +15,6 @@ function draw() {
   
   
   triangle(200,100,300,200,200,300)
-  // add a shape tha twill appear on top of the center triangle 
   line(200,100,150,50)
     ellipse(290,150,50,25)
   ellipse(290,150,20,20)
