@@ -25,14 +25,13 @@ On a notecard: What are you most proud of accomplishing this unit? Why?
 Make sure to emphasize that good feedback is constructive–might be helpful to ad-lib an example of bad feedback out loud and have students point out how it can be improved.
 
 ## Handouts
-Peer Feedback Template (Individual Google Doc)
-Final Project Rubric
++ Peer Feedback Template (Individual Google Doc)
++ Final Project Rubric
 
 ## Resources
-[Peer Feedback Template](https://docs.google.com/document/d/1uRuAEBR2cC578Ml_X1SHZ4ZNkHOKfyGC2QIiBHrtxbU/edit)
-Laptops
-Smartboard
-[Final Project rubric](https://docs.google.com/document/d/1PaaqwFY_TClZVZPNMuvi15oMC2DFODknfyMgQcItmrQ/edit?usp=sharing)
++ [Peer Feedback Template](https://docs.google.com/document/d/1uRuAEBR2cC578Ml_X1SHZ4ZNkHOKfyGC2QIiBHrtxbU/edit)
++ Laptops
++ [Final Project rubric](https://docs.google.com/document/d/1PaaqwFY_TClZVZPNMuvi15oMC2DFODknfyMgQcItmrQ/edit?usp=sharing)
 
 ## Assignments
 Turn in revised code tonight!
