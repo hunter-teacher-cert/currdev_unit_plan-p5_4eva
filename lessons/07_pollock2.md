@@ -55,9 +55,9 @@ Link for the starter code (if needed): https://editor.p5js.org/mlaks23/sketches/
 Splatter Paint Code Example: https://editor.p5js.org/mlaks23/sketches/fYQJPdQ-l
 
 
-### Closing:
+### Closing: (12 min)
 
-Pollock Assessment: (15 min)
+Pollock Assessment:
 
 Click on the link https://forms.gle/nGinD5bnn74UmVjt7. Answer the questions on the form. Use the code below for questions 2 to 5.
 
