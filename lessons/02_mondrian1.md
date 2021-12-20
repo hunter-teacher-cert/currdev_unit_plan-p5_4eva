@@ -13,11 +13,11 @@ Aim: I can use p5.js to create art using functions and parameters
 
 ### Materials/Resources:
 
-Slides\
-p5.js student accounts\
-Google Classroom or other class tool to share projects and links\
-Homework assignment\
-Teacher code along template
+- Slides
+- p5.js student accounts
+- Google Classroom or other class tool to share projects and links
+- Homework assignment
+- Teacher code along template (https://editor.p5js.org/emmawingreen/sketches/3zRXHgFRf)
 
 
 
