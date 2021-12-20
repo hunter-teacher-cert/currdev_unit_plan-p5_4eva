@@ -24,7 +24,9 @@ Google Classroom or other class tool to share projects and links
 
 What is digital art? Give a definition and an example.
 
-See if you can come up with a new example, i.e. not something that we looked at in class yesterday.\ (Designed to get students to review material from yesterday)
+See if you can come up with a new example, i.e. not something that we looked at in class yesterday.
+
+(Designed to get students to review material from yesterday)
 
 
 ### Mini-Lesson and/or Code-Along: (10 min)
@@ -61,6 +63,6 @@ Share a line of code that you wrote today. What does it do? How did you figure t
 (CFU that students were focused during the assignment)
 
 
-### Homework: 
+### Homework:
 
 If students have a computer and Internet access at home they can continue exploring their p5.js accounts.
