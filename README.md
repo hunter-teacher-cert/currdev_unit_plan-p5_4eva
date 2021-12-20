@@ -106,7 +106,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Introduction to Computer Art (2 lessons)
 
-### Lesson 1:
+### Lesson 00:
 + *Standard(s)*:
   + **9-12.DL.2**: Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -114,7 +114,7 @@ Total length: ~2 Weeks (~11 lessons)
 + Gallery walk Google slide deck (we each contribute 2 images of digital art?) Video games, animated movies, gallery installations, NFTs, Google Doodles, social media
 + Question formulation (Scheffler will provide graphic organizer Google doc)
 
-### Lesson 2:
+### Lesson 01:
 + *Standard(s)*:
   + **9-12.DL.5**: Transfer knowledge of technology in order to use new and emerging technologies on multiple platforms.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -124,7 +124,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Mondrian-Inspired Art (2 days)
 
-### Lesson 3:
+### Lesson 02:
 + *Standard(s)*:
   + **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -132,7 +132,7 @@ Total length: ~2 Weeks (~11 lessons)
 + Learn about artist, seeing teacher demo, doing code along, homework (out of class) assignment
 + Mastery Check (example): Google Form w/questions --> Functions and Parameters
 
-### Lesson 4:
+### Lesson 03:
 + *Standard(s)*:
   + **7-8.CT.4**: Write a program using functions or procedures whose names or other documentation convey their purpose within the larger task.
   + **7-8.CT.7**: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
@@ -143,7 +143,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Picasso-Inspired Art (2 days):
 
-### Lesson 5:
+### Lesson 04:
 + *Standard(s)*:
   + **7-8.CT.8**: Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -151,7 +151,7 @@ Total length: ~2 Weeks (~11 lessons)
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Variables and Loops
 
-### Lesson 6:
+### Lesson 05:
 + *Standard(s)*:
   + **7-8.CT.8**: Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -161,7 +161,7 @@ Total length: ~2 Weeks (~11 lessons)
 
 ## Pollock-Inspired Art (2 days)
 
-### Lesson 7:
+### Lesson 06:
 + *Standard(s)*:
   + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
@@ -169,31 +169,30 @@ Total length: ~2 Weeks (~11 lessons)
 + Learn about artist, seeing teacher demo, doing code along
 + Mastery Check: Google Form w/questions --> Randomization and User Input  
 
-### Lesson 8:
+### Lesson 07:
 + *Standard(s)*:
   + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
   + **9-12.IC.7**: Investigate the use of computer science in multiple fields.
 + *Aim*: I can use p5.js to create art using randomization and user input
 + Independent lab
-+ Incl. graphic organizer (can be embedded in code?)
-
++ Mastery Check: Google Form w/questions --> Randomization and User Input
 
 ## Final Project (3 days):
 
-### Lesson 9:
+### Lesson 08:
 + *Standard(s)*:
   + **9-12.DL.4**: Independently select advanced digital tools and resources to create, revise, and publish complex digital artifacts or collection of artifacts.
 + *Aim*: I can propose the design of my final project
 + Brainstorming / Proposals
 + Proposal doc turn in + drawing
 
-### Lesson 10:
+### Lesson 09:
 + *Standard(s)*:
   + **9-12.CT.4**: Implement a program using a combination of student-defined and third-party functions to organize the computation.
 + *Aim*: I can set and accomplish a goal related to my final project
 + Worktime (set individual goals at start of class)
 
-### Lesson 11:
+### Lesson 10:
 + *Standard(s)*:
   + **9-12.CT.9**: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
 + *Aim*: I can revise my final project based on user input
