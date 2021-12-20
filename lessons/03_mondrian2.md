@@ -61,7 +61,7 @@ Share your Mondrian art with the class. What was the most difficult part of codi
 
 (Students should be able to describe their code and how they made their sketches.)
 
-### Homework: Handout
+### Homework: 
 
 Start researching artists for your final project. Whose style of art would you want to recreate using p5.js?
 
