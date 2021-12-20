@@ -7,8 +7,8 @@ Aim: I can use p5.js to create art using functions and parameters
 
 ### Standards:
 
-7-8.CT.4: Write a program using functions or procedures whose names or other documentation convey their purpose within the larger task.
-7-8.CT.7: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
+7-8.CT.4: Write a program using functions or procedures whose names or other documentation convey their purpose within the larger task.\
+7-8.CT.7: Design or remix a program that uses a variable to maintain the current value of a key piece of information.\
 9-12.IC.7: Investigate the use of computer science in multiple fields.
 
 ### Materials/Resources:
