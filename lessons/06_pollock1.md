@@ -14,14 +14,14 @@ Aim: I can use p5.js to create art using randomization and user input
 
 ### Materials/Resources:
 
-p5.js editor: https://editor.p5js.org/\
-https://www.jackson-pollock.org/\
+p5.js editor: https://editor.p5js.org/ \
+https://www.jackson-pollock.org/ \
 Google Slides
 
 
 ### Do Now: (7 min)
 
-Click on the link: https://jacksonpollock.org/\
+Click on the link: https://jacksonpollock.org/ \
 Play around with the site. Describe what happens when you drag and click your mouse.
 
 Call on Students for answers.
@@ -40,10 +40,10 @@ Today we are going to learn how to make random splatter paint designs similar to
 Click on the link and save a copy of the file for your starter code: https://editor.p5js.org/mlaks23/sketches/TVGUvjFn8
 
 Look at the code. How can we change the following:
-the definition for the variable name to your name?
-the color of the circle?
-the position of the circle?
-the size of the circle?
+- the definition for the variable name to your name?
+- the color of the circle?
+- the position of the circle?
+- the size of the circle?
 
 Make the changes and run the code. What happens when you click on the canvas?
 
