@@ -9,14 +9,14 @@ Aim: I can propose the design of my final project
 
 ## In class exercises
 
-## Do Now (5 minutes)
+### Do Now (5 minutes)
 If you could design ANYTHING for your final project–using the skills you’ve learned this unit, what would you create? Students will respond to this in their notes
 
-## Virtual Gallery Walk (10 minutes)
+### Virtual Gallery Walk (10 minutes)
 Students will peruse a selection of projects created using p5.js for inspiration
 They will save screenshots or links to their [proposal graphic organizer](https://docs.google.com/document/d/1yo1G15HpPLDc6-1LqWQXLAtEa51gPWYY4XGdlLe6rgs/edit)
 
-## Proposal Drafting (10 minutes)
+### Proposal Drafting (10 minutes)
 Students will draft proposals using the graphic organizer
 
 ## Peer Feedback (10 minutes)
