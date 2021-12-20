@@ -38,4 +38,4 @@ n/a - All work is digital unless you’d prefer to print a notecatcher for the g
 + Laptops for students
 
 ## Assignments
-What p5.js intro videos (linked [here](https://www.youtube.com/watch?v=dtHxDggkBYc) and [here](https://www.youtube.com/watch?v=x1rJJRVTpAI)) to prepare for tomorrow!
+Watch p5.js intro videos (linked [here](https://www.youtube.com/watch?v=dtHxDggkBYc) and [here](https://www.youtube.com/watch?v=x1rJJRVTpAI)) to prepare for tomorrow!
