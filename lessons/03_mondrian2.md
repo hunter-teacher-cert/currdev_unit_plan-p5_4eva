@@ -13,12 +13,12 @@ Aim: I can use p5.js to create art using functions and parameters
 
 ### Materials/Resources:
 
-Slides\
-p5.js student accounts\
-Google Classroom or other class tool to share projects and links\
-Homework assignment\
-Mondrian p5.js lab template\
-Mondrian assessment
+- Slides
+- p5.js student accounts
+- Google Classroom or other class tool to share projects and links
+- Homework assignment
+- Mondrian p5.js lab template
+- Mondrian assessment
 
 
 ### Do Now: (10 min)
