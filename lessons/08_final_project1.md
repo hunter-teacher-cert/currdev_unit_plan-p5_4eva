@@ -19,13 +19,13 @@ They will save screenshots or links to their [proposal graphic organizer](https:
 ### Proposal Drafting (10 minutes)
 Students will draft proposals using the graphic organizer
 
-## Peer Feedback (10 minutes)
+### Peer Feedback (10 minutes)
 Students will give each other feedback in pairs
 
-## Revisions (10 minutes)
+### Revisions (10 minutes)
 Students will revise their proposals, based on the feedback
 
-## Exit Ticket (5 minutes)
+### Exit Ticket (5 minutes)
 Students will respond on a notecard: On a scale of 1 to 5, how excited are you about the project you proposed today? Why?
 
 ## Notes
