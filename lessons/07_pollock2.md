@@ -61,13 +61,13 @@ Pollock Assessment: (15 min)
 
 Click on the link https://forms.gle/nGinD5bnn74UmVjt7. Answer the questions on the form. Use the code below for questions 2 to 5.
 
-`function mousePressed() {`\
-  > `fill(0, 255, 0)`\
-  > `ellipse(20, 40, 30)`\
+`function mousePressed() {`
+  > `fill(0, 255, 0)`
+  > `ellipse(20, 40, 30)`
 
-  > `fill(random(255), random(255), random(255))`\
-  >`ellipse(mouseX, mouseY, random(20))`\
-  `}`
+  > `fill(random(255), random(255), random(255))`
+  >`ellipse(mouseX, mouseY, random(20))`
+`}`
 
 1. Write a line of code that asks a user to input their name.
 2. What does the function mousePressed() do?
