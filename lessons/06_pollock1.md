@@ -1,5 +1,5 @@
 # Art of Code: P5.js & Computer Art
-## Lesson #7: Pollock Inspired Art (Day 1)
+## Lesson 06: Pollock Inspired Art (Day 1)
 
 ### Main objective:
 
