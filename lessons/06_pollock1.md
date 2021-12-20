@@ -8,20 +8,20 @@ Aim: I can use p5.js to create art using randomization and user input
 
 ### Standards:
 
-9-12.CT.9: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+9-12.CT.9: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.\
 9-12.IC.7: Investigate the use of computer science in multiple fields.
 
 
 ### Materials/Resources:
 
-p5.js editor: https://editor.p5js.org/
-https://www.jackson-pollock.org/
+p5.js editor: https://editor.p5js.org/\
+https://www.jackson-pollock.org/\
 Google Slides
 
 
 ### Do Now: (7 min)
 
-Click on the link: https://jacksonpollock.org/
+Click on the link: https://jacksonpollock.org/\
 Play around with the site. Describe what happens when you drag and click your mouse.
 
 Call on Students for answers.
@@ -80,7 +80,7 @@ Jackson Pollock (1912 - 1956) was a painter in the 1940s and 1950s. His artwork 
 
 2. Read the biography and look at the paintings on the bottom of the page under the title “Masterpieces of Jackson Pollock.”
 
-3. Answer the following questions:\
+3. Answer the following questions:
   > a. What thoughts do you have about Jackson Pollock’s paintings?\
     b. Which painting do you like the most?\
     c. Why do you think his work is so popular?\
