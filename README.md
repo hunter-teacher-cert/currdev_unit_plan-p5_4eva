@@ -95,7 +95,7 @@ are in the process of being rolled out across the DOE. Standards assessed in thi
 ---
 
 ## Resources
-+ Numberphile video on Pixar art (for HW watching)
++ lesson slides
 + various images of works of art (incl. in individual lesson plans)
 
 ---
