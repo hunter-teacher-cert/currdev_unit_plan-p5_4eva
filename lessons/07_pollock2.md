@@ -8,7 +8,7 @@ Aim: I can use p5.js to create art using randomization and user input
 
 ### Standards:
 
-9-12.CT.9: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+9-12.CT.9: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.\
 9-12.IC.7: Investigate the use of computer science in multiple fields.
 
 
@@ -20,10 +20,10 @@ Google Slides
 ### Do Now: (8 min)
 
 Given the two lines of code below:
-` fill(random(255), random(255), 0)
-  ellipse(mouseX + random(10, 20), mouseY + random(10, 20), random(10)) `
+`fill(random(255), random(255), 0)`\
+`ellipse(mouseX + random(10, 20), mouseY + random(10, 20), random(10))`
 
-What does the function random() do in the fill function?
+What does the function random() do in the fill function?\
 What does the function random() do in the ellipse function?
 
 
@@ -60,13 +60,13 @@ Pollock Assessment: (15 min)
 
 Click on the link https://forms.gle/nGinD5bnn74UmVjt7. Answer the questions on the form. Use the code below for questions 2 to 5.
 
-` function mousePressed() {
-    fill(0, 255, 0)
-    ellipse(20, 40, 30)
+`function mousePressed() {`\
+    `fill(0, 255, 0)`\
+    `ellipse(20, 40, 30)`\
 
-    fill(random(255), random(255), random(255))
-    ellipse(mouseX, mouseY, random(20))
-  } `
+    `fill(random(255), random(255), random(255))`\
+    `ellipse(mouseX, mouseY, random(20))`\
+  `}`
 
 1. Write a line of code that asks a user to input their name.
 2. What does the function mousePressed() do?
