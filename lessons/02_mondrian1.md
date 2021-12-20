@@ -1,7 +1,7 @@
 # Art of Code: P5.js & Computer Art
 ## Lesson 02 : Mondrian (Day 1)
 
-### Main objective:
+### Main Objective:
 
 Aim: I can use p5.js to create art using functions and parameters
 
@@ -59,7 +59,7 @@ Share a line of code that you learned how to write today. What does it do? How d
 
 (Students should be able to explain a line of code in their sketch.)
 
-### Homework (handout)
+### Homework: Handout
 
 In a few sentences, describe Mondrian’s artistic style to someone who has never seen his paintings.
 Create your own Mondrian-inspired artwork. We will code this tomorrow in class!
